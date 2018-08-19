@@ -1,0 +1,7 @@
+c:\users\sneha more\source\repos\tree\tree\bin\Debug\tree.exe.config
+c:\users\sneha more\source\repos\tree\tree\bin\Debug\tree.exe
+c:\users\sneha more\source\repos\tree\tree\bin\Debug\tree.pdb
+c:\users\sneha more\source\repos\tree\tree\obj\Debug\tree.csprojAssemblyReference.cache
+c:\users\sneha more\source\repos\tree\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+c:\users\sneha more\source\repos\tree\tree\obj\Debug\tree.exe
+c:\users\sneha more\source\repos\tree\tree\obj\Debug\tree.pdb
